@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  background: #1f2937;
+  color: #fff;
+}
+.hero-section {
+  margin: 20px;
+}
+
+.password-container {
+  display: flex;
+}
+.btn-generate {
+  background: #10b981;
+  border: none;
+  border-radius: 6px;
+  margin-right: 5px;
+  margin-left: 5px;
+  padding: 10px 23px;
+  color: #fff;
+}
+p {
+  color: #d5d4d8;
+}
+.span-color {
+  color: #10b981;
+}
+.container-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  width: 200px;
+  height: 40px;
+  border-radius: 6px;
+  background: #273549;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-top: 10px;
+  color: #10b981;
+  cursor: pointer;
+}
